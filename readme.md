@@ -1,15 +1,4 @@
-# Responsive Web Design (RWD)
+## Personal Portfolio Site
 
-This repository contains a simple **RWD** in one page. I just used `HTML`, `CSS` and `JavaScript` to write the code. 
+This is the code for my personal [website](https://www.martinezadolfo.com)
 
-No `bootstrap` nor other frameworks.
-
-I used *media queries* to change properties by width.
-
-#### The next image is a full width preview of the web:
-
-![](img/git-images/rwd1.PNG)
-
-#### This image is a mobile preview
-
-![](img/git-images/rwd2.PNG)
